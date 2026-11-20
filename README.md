@@ -2,7 +2,7 @@
 
 MovieIQ analyses 2,000 films and predicts whether a movie will be financially successful. A movie is **successful when `revenue > budget`**. The project covers data preparation, exploratory analysis, statistical testing, a Random Forest classifier and an interactive Streamlit dashboard.
 
-**Live app:** [add your Streamlit link here]
+**Live app:** https://movieiq-analysis-32rflrcw8l6gm8hhrta8re.streamlit.app
 **Full write-up:** [`MovieIQ_Report.docx`](MovieIQ_Report.docx)
 
 ## Key findings
