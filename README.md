@@ -39,8 +39,8 @@ MovieIQ/
 ## Setup and run
 
 ```bash
-git clone https://github.com/<your-username>/MovieIQ.git
-cd MovieIQ
+git clone https://github.com/hari08prasad/MovieIQ-analysis.git
+cd MovieIQ-analysis
 python -m venv venv
 venv\Scripts\activate        # Windows (macOS/Linux: source venv/bin/activate)
 pip install -r requirements.txt
